@@ -2,7 +2,7 @@
 
 UVA-Problems solved.
 
-All problems are organized in the following manner:
+### All problems are organized in the following manner:
 <Problem Number>
     ├── problem.pdf                   # Problem specification in pdf format
     ├── solution.<file format>        # Solution in either C++ or Java
