@@ -1,6 +1,6 @@
 # UVA-Problems 
 
-Solution author: Andrés Guarneros.
+> All problems solved by Andrés Guarneros.
 
 ### All problems are organized in the following manner:
 ```
